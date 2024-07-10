@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",   
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.linkedin.com/in/shana-shekh-a9772621a/",
+    "tw_url":"https://www.linkedin.com/in/gayatrib16/",
+    "gh_url":"https://github.com/gayatrib16/",
+    
+    "headname": "MEDINVENTORY ELITE",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
